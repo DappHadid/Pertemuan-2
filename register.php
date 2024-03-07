@@ -29,6 +29,7 @@
 </head>
 <body>
     <h1>REGISTRATION</h1>
+    <h3>Insert Your Account</h3>
     <form method ="POST" action="register.php">
         <p>Username</p>
         <input type="text" name="username" required>
